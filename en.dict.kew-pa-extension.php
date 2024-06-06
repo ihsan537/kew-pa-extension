@@ -63,5 +63,6 @@ Dict::Add('EN US', 'English', 'English', array(
     'Class:Asset/Attribute:price_per_unit' => 'Price Per Unit',
     'Class:Asset/Attribute:supplier_name' => 'Supplier Name',
     'Class:Asset/Attribute:region' => 'Region',
+    'Class:Asset/Attribute:url' => 'Url',
 ));
 ?>
